@@ -1,0 +1,2 @@
+# HideBarManagerDemo
+HideBarManager demo app.
